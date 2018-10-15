@@ -6,3 +6,4 @@ ONE MORE TEST
 
 dddd
 aaa
+test the commit function
